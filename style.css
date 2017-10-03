@@ -1,0 +1,31 @@
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+#blue {
+  color: blue;
+}
+
+.overlay {
+  height: 500px;
+  background-image: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg);
+}
+
+.ui.right.floated.image {
+  margin-top: 100px;
+}
+
+#white {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 150px;
+  float: left;
+}
+
+.green-background {
+  background-color: #004030;
+  height: 100px;
+  color: white;
+}
